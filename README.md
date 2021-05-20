@@ -1,5 +1,4 @@
-  
-    abstract class nhanvat {
+  abstract class nhanvat {
       abstract val name: String
       abstract val health: Double
       abstract val mana: Double
